@@ -1,0 +1,1 @@
+{"version":3,"file":"set-upgradeable.d.ts","sourceRoot":"","sources":["../src/set-upgradeable.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,YAAY,CAAC;AAKlD,eAAO,MAAM,kBAAkB,wBAAyB,CAAC;AAEzD,MAAM,MAAM,WAAW,GAAG,OAAO,kBAAkB,CAAC,MAAM,CAAC,CAAC;AAE5D,wBAAgB,cAAc,CAAC,CAAC,EAAE,eAAe,EAAE,WAAW,EAAE,WAAW,QAe1E"}

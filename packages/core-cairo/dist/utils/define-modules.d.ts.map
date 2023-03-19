@@ -1,0 +1,1 @@
+{"version":3,"file":"define-modules.d.ts","sourceRoot":"","sources":["../../src/utils/define-modules.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,aAAa,CAAC;AAE1C,KAAK,kBAAkB,GAAG,IAAI,CAAC,MAAM,EAAE,MAAM,CAAC,CAAC;AAE/C,wBAAgB,aAAa,CAAC,CAAC,SAAS,MAAM,EAC5C,GAAG,EAAE,MAAM,CAAC,CAAC,EAAE,kBAAkB,CAAC,GACjC,MAAM,CAAC,CAAC,EAAE,MAAM,CAAC,CAAC"}
